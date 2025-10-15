@@ -1,4 +1,4 @@
-# Finance Portfolio — [Your Name]
+# Finance Portfolio — [Daniel Markov]
 
 Three practitioner-style models with notes and executive summaries.
 
