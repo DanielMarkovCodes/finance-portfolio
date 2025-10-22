@@ -36,4 +36,3 @@ Hands-on FP&A, credit risk, and equity valuation projects with **show-your-work*
 
 ---
 
-## Repo Structure
