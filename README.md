@@ -1,5 +1,5 @@
 # Finance Portfolio
-Hands-on FP&A, credit risk, and equity valuation projects with **show-your-work** Excel models, concise memos, and short decks. Each project is workplace-ready: transparent assumptions, formulas in cells, and clearly labeled data sources or proxies.
+Hands-on FP&A, credit risk, and equity valuation projects with work shown in Excel models, with concise memos, and short decks. Each project is workplace-ready: transparent assumptions, formulas in cells, and clearly labeled data sources or proxies.
 
 ## Quick Links
 - **CELSIUS — 12-Month FP&A Forecast & Variance Bridge** → [`projects/CELH-FPA/`](projects/CELH-FPA/)
